@@ -15,7 +15,7 @@ bool matchesPattern(const char *str)
                 return false;
             }
         }
-        return true;
+        return true;  
     }
     return false;
 }
